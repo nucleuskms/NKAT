@@ -3,7 +3,7 @@ chcp 65001 >nul
 title Nucleus KMS Activation Tool
 color 0a
 
-:: Clear the screen and display the ASCII art
+
 cls
 echo ██████   █████                     ████
 echo ░░██████ ░░███                     ░░███
@@ -274,5 +274,5 @@ if "%choice%"=="2" (
 echo Invalid choice. Please restart the program.
 pause
 
-:: By freshadwiano
+:: By libmysql
 :: 03.01.2025
